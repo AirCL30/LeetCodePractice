@@ -37,10 +37,10 @@ int main(){
 
     Solution solution;
 
-//    int array1[6] = {1,2,3,0,0,0};
-//    int array2[3] = {2,5,6};
+    int array1[6] = {1,2,3,0,0,0};
+    int array2[3] = {2,5,6};
 
-    int array1[1] = {1,2,3,0,0,0};
+//    int array1[1] = {1,2,3,0,0,0};
 //    int array2[1] = {2,5,6};
 
     vector<int> nums1(array1, array1+6);
